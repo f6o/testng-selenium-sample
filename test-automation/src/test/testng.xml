@@ -1,0 +1,5 @@
+<test name="Simple example">
+  <classes>
+    <class name="test.TopPageSearchTest"/>
+  </classes>
+</test>
